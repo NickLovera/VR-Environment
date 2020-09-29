@@ -33,7 +33,7 @@
     <!--Ceiling Fan-->
     <a-obj-model src="assets/fannMod.obj" mtl="assets/fan.mtl" scale ="0.01 0.01 0.01" position="0 7 0"></a-obj-model>
     <!--Air Conditioner-->
-    <a-obj-model src="assets/acMod.obj" mtl="assets/acMat.mtl" scale ="0.005 0.005 0.005" position="10 5 30"></a-obj-model>
+    <a-obj-model src="assets/acMod.obj" mtl="assets/acMat.mtl" scale ="0.005 0.005 0.005" position="10 5 29"></a-obj-model>
     <!--Couch-->
     <a-obj-model src="assets/couchMod.obj" mtl="assets/couchMat.mtl"  position="10 0 0"></a-obj-model>
     <!--Kitchen-->
@@ -44,14 +44,14 @@
     <a-obj-model src="assets/bedMod.obj" mtl="assets/bedMat.mtl"  position="35 0 6"></a-obj-model>
 
 
-    <!-- Ceiling -->
+    <!-- Ceiling
     <a-entity static-body geometry="primitive: box; depth: 50; height: 0.1; width: 100" position="0 8 5" material="shader: flat; side: double; opacity: 1;
 src: url(images/ceiling.jpg); repeat: 20 12"></a-entity>
     <!-- Floor -->
     <a-entity static-body geometry="primitive: box; depth: 50; height: 0.1; width: 100" position="0 -0.5 5" material="shader: flat; side: double; opacity: 1;
 src: url(images/floor.jpg); repeat: 12 5"></a-entity>
 
-    <!-- Walls  -->
+    <!-- Walls 
     <a-entity static-body geometry="primitive: box; depth: 1; height: 12; width: 50" position="-50 4 5" rotation="0 90 0" material="shader: standard;
 roughness: 1; src: url(images/ceiling.jpg); repeat: 4 2"></a-entity>
     <a-entity static-body geometry="primitive: box; depth: 1; height: 12; width: 50" position="50 4 5" rotation="0 90 0" material="shader: standard;
@@ -60,25 +60,6 @@ roughness: 1; src: url(images/ceiling.jpg); repeat: 4 2"></a-entity>
 roughness: 1; src: url(images/ceiling.jpg); repeat: 12 2"></a-entity>
     <a-entity static-body geometry="primitive: box; depth: 1; height: 12; width: 100" position="0 4 30" rotation="0 0 0" material="shader: standard;
 roughness: 1; src: url(images/ceiling.jpg); repeat: 12 2"></a-entity>
-
-  
-
-    <!-- Torch -->
-    <a-entity geometry="primitive: cylinder; radius: 0.3; height: 5" position="35 4 5" rotation="-40 -90 0" material="
-src: url(images/torch2.jpg)"></a-entity>
-    <a-entity geometry="primitive: sphere; radius: 0.6" position="36.6 6.2 5" rotation="0 0 0" material="
-color:#222">
-        <a-entity geometry="primitive: cylinder; radius: 0.6; height: 0.5" position="0 0.3 0" rotation="0 0 0" material="
-color:#222"></a-entity>
-        <a-entity geometry="primitive: plane; height: 1; width: 1" position="0 0.9 0" rotation="0 0 0" material="shader: flat; side: double; transparent: true;
-src: url(images/floor.jpg)">
-            <a-animation attribute="position" to="0 0.95 0" easing="linear" repeat="indefinite" dur="450"></a-animation>
-        </a-entity>
-        <a-entity geometry="primitive: plane; height: 1; width: 1" position="0 0.9 0" rotation="0 90 0" material="shader: flat; side: double; transparent: true;
-src: url(images/floor.jpg)">
-            <a-animation attribute="position" to="0 0.95 0" easing="linear" repeat="indefinite" dur="500"></a-animation>
-        </a-entity>
-    </a-entity>
 
    
 
