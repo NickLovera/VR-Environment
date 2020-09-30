@@ -18,15 +18,15 @@ document.querySelector('#button').addEventListener('mouseleave', function () {
 });
 
 //Turn Covid on/off
-int pressed = 0;
+var pressed = false;
 document.querySelector('#button').addEventListener('click', function () {
-	if(pressed == 0){
+	if(pressed == false){
 		button.setAttribute('color', 'red');
-		pressed = 1;
+		pressed = true;
 	}
 	else{
 		button.setAttribute('color', 'blue');
-		pressed = 0;
+		pressed = false;
 	}
 
 });
