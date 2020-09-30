@@ -9,23 +9,23 @@ document.querySelector('#radio').addEventListener('mouseleave', function () {
 
 //Scale up button
 document.querySelector('#button').addEventListener('mouseenter', function () {
-	button.setAttribute('color', red);
 	button.setAttribute('scale', '1.5 1.5 1.5');	
 });
 
 //scaledown button
 document.querySelector('#button').addEventListener('mouseleave', function () {
-	button.setAttribute('color', green);
 	button.setAttribute('scale', '1 1 1');	
 });
 
+int pressed = 0;
 //Change to Covid mode
 document.querySelector('#button').addEventListener('click', function () {
-	if(button.components.color == green){
-		//switch to covid
+	var entity = document.querySelector('[button]');
+	if(pressed == 0){
+		entity.components.color = "green";
 	}
 	else{
-		//switch back to normal
+		entity.components.color = "red";
 	}
 });
 
