@@ -17,6 +17,20 @@ document.querySelector('#button').addEventListener('mouseleave', function () {
 	button.setAttribute('scale', '1 1 1');	
 });
 
+//Turn Covid on/off
+int pressed = 0;
+document.querySelector('#button').addEventListener('click', function () {
+	if(pressed == 0){
+		button.setAttribute('color', 'red');
+		pressed = 1;
+	}
+	else{
+		button.setAttribute('color', 'blue');
+		pressed = 0;
+	}
+
+});
+
 
 //turn music on/off
 document.querySelector('#radio').addEventListener('click', function () {
