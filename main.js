@@ -1,5 +1,5 @@
 document.querySelector('#radio').addEventListener('mouseenter', function () {
-	radio.setAttribute('scale', '2 2 2');	
+	radio.setAttribute('scale', '1.5 1.5 1.5');	
 });
 
 //scaledown when mouse is out off radio
