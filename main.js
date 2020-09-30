@@ -20,13 +20,12 @@ document.querySelector('#button').addEventListener('mouseleave', function () {
 //Turn Covid on/off
 var pressed = false;
 document.querySelector('#button').addEventListener('click', function () {
-	var entity = document.querySelector('[button]');
-	if(entity.components.color == 'blue'){
-		entity.setAttribute('color', 'red');
+	if(pressed == false){
+		button.setAttribute('color', 'red');
 		pressed = true;
 	}
 	else{
-		entity.setAttribute('color', 'black');
+		button.setAttribute('color', 'black');
 		pressed = false;
 	}
 
