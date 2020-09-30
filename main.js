@@ -20,12 +20,22 @@ document.querySelector('#button').addEventListener('mouseleave', function () {
 //Turn Covid on/off
 var pressed = false;
 document.querySelector('#button').addEventListener('click', function () {
+	var w1 = document.querySelector('#window1')
+	var w2 = document.querySelector('#window2')
+	var w3 = document.querySelector('#window3')
+	
 	if(pressed == false){
 		button.setAttribute('color', 'red');
+		w1.setAttribute('material','shader: standard;roughness: 1; src: url(images/bars.jpg);');
+		w2.setAttribute('material','shader: standard;roughness: 1; src: url(images/bars.jpg);');
+		w3.setAttribute('material','shader: standard;roughness: 1; src: url(images/bars.jpg);');
 		pressed = true;
 	}
 	else{
-		button.setAttribute('color', 'black');
+		button.setAttribute('color', 'blue');
+		w1.setAttribute('material','shader: standard;roughness: 1; src: url(images/outside.jpg);');
+		w2.setAttribute('material','shader: standard;roughness: 1; src: url(images/outside.jpg);');
+		w3.setAttribute('material','shader: standard;roughness: 1; src: url(images/outside.jpg);');
 		pressed = false;
 	}
 
