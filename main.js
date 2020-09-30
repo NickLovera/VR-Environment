@@ -17,7 +17,7 @@ document.querySelector('#button').addEventListener('mouseleave', function () {
 	button.setAttribute('scale', '1 1 1');	
 });
 
-int pressed = 0;
+/*int pressed = 0;
 //Change to Covid mode
 document.querySelector('#button').addEventListener('click', function () {
 	var entity = document.querySelector('[button]');
@@ -27,7 +27,7 @@ document.querySelector('#button').addEventListener('click', function () {
 	else{
 		entity.components.color = "red";
 	}
-});
+});*/
 
 //turn music on/off
 document.querySelector('#radio').addEventListener('click', function () {
