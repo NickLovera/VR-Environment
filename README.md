@@ -1,4 +1,4 @@
 # VrProject1
 
-![My House](/images/afterCOVID.JPG)
+![My House](/images/General Picture.JPG)
 
