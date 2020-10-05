@@ -20,10 +20,10 @@ document.querySelector('#button').addEventListener('mouseleave', function () {
 //Turn Covid on/off
 var covid = false;
 document.querySelector('#button').addEventListener('click', function () {
-	var w1 = document.querySelector('#window1')
-	var w2 = document.querySelector('#window2')
-	var w3 = document.querySelector('#window3')
-	var morty = document.querySelector('#mortyJump')
+	var w1 = document.querySelector('#window1');
+	var w2 = document.querySelector('#window2');
+	var w3 = document.querySelector('#window3');
+	var morty = document.querySelector('#mortyJump');
 	
 	if(pressed == false){
 		button.setAttribute('color', 'red');
