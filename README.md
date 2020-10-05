@@ -1,8 +1,8 @@
 # VrProject1
+![My House](/images/first.JPG)
 
 # Demo Video
 Insert Video Url Here
-![My House](/images/first.JPG)
 
 # Demo Link
 You can try it out yourself using the link below.
