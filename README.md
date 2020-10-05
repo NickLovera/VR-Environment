@@ -21,6 +21,7 @@ My dog is located in my bedroom and is jumping up and down non-stop (this is how
 
 *When Covid mode is active he is sad he can't see his friends and is no longer jumping*
 ![dog](/images/mortyy.JPG)
+![dog](/images/mortyA.JPG)
 
 # Object Sources
 Office Chair - *https://poly.google.com/view/3txPAhYeu-x*
