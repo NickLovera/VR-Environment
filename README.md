@@ -23,17 +23,17 @@ My dog is located in my bedroom and is jumping up and down non-stop (this is how
 ![dog](/images/mortyy.JPG)
 
 # Object Sources
-Office Chair - https://poly.google.com/view/3txPAhYeu-x
-Desk - https://poly.google.com/view/dxzOs4w_GNL
-Monitor - https://poly.google.com/view/e8cELDeDuTr
-Couch - https://poly.google.com/view/7Q_Ab2HLll1
-Table - https://poly.google.com/view/fnTN9aw1q25
-TvStand - https://poly.google.com/view/aukWXD-AwKu
-A/c - https://poly.google.com/view/5KohLH0xc8d
-Desk Lamp - https://poly.google.com/view/0_FDq_UjWHp
-Record Player -https://poly.google.com/view/dEZVDbs1iR1
-Doors - https://poly.google.com/view/dRvd7q2nO-6
+Office Chair - https://poly.google.com/view/3txPAhYeu-x.
+Desk - https://poly.google.com/view/dxzOs4w_GNL.
+Monitor - https://poly.google.com/view/e8cELDeDuTr.
+Couch - https://poly.google.com/view/7Q_Ab2HLll1.
+Table - https://poly.google.com/view/fnTN9aw1q25.
+TvStand - https://poly.google.com/view/aukWXD-AwKu.
+A/c - https://poly.google.com/view/5KohLH0xc8d.
+Desk Lamp - https://poly.google.com/view/0_FDq_UjWHp.
+Record Player -https://poly.google.com/view/dEZVDbs1iR1.
+Doors - https://poly.google.com/view/dRvd7q2nO-6.
 
 # Image Sources
-Jail Bars - https://ssl.bigstockimages.com/9/1/9/large2/91979924.jpg
-Outside - https://cdn.vox-cdn.com/thumbor/4Fls45eVMtc2cDw3XZcwwORUak0=/0x0:2700x1802/1200x0/filters:focal(0x0:2700x1802):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/8806997/5._Credit_Julienne_Schaer.JPG
+Jail Bars - https://ssl.bigstockimages.com/9/1/9/large2/91979924.jpg.
+Outside - https://cdn.vox-cdn.com/thumbor/4Fls45eVMtc2cDw3XZcwwORUak0=/0x0:2700x1802/1200x0/filters:focal(0x0:2700x1802):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/8806997/5._Credit_Julienne_Schaer.JPG.
