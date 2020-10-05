@@ -1,6 +1,13 @@
 # VrProject1
+
+# Demo Video
 Insert Video Url Here
 ![My House](/images/first.JPG)
+
+# Demo Link
+You can try it out yourself using the link below.
+
+*https://nicklovera.github.io/*
 
 # Clickable Items
 Items that have interaction will either grow in size or have a blue outline when hovered over.
