@@ -1,4 +1,4 @@
 # VrProject1
 
-![My House](/images/General Picture.JPG)
+![My House](/images/covid.png)
 Format: ![Alt Text](url)
