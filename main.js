@@ -18,7 +18,7 @@ document.querySelector('#button').addEventListener('mouseleave', function () {
 });
 
 //Turn Covid on/off
-var pressed = false;
+var covid = false;
 document.querySelector('#button').addEventListener('click', function () {
 	var w1 = document.querySelector('#window1')
 	var w2 = document.querySelector('#window2')
@@ -31,7 +31,7 @@ document.querySelector('#button').addEventListener('click', function () {
 		w2.setAttribute('material','shader: standard;roughness: 1; src: url(images/bars.jpg);');
 		w3.setAttribute('material','shader: standard;roughness: 1; src: url(images/bars.jpg);');
 		morty.setAttribute('enabled', 'false');
-		pressed = true;
+		covid = true;
 	}
 	else{
 		button.setAttribute('color', 'blue');
@@ -39,7 +39,7 @@ document.querySelector('#button').addEventListener('click', function () {
 		w2.setAttribute('material','shader: standard;roughness: 1; src: url(images/outside.jpg);');
 		w3.setAttribute('material','shader: standard;roughness: 1; src: url(images/outside.jpg);');
 		morty.setAttribute('enabled', 'true');
-		pressed = false;
+		covid = false;
 	}
 
 });
