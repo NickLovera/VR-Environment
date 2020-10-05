@@ -2,6 +2,6 @@
 
 ![My House](/images/first.JPG)
 
-#Clickable Items
+# Clickable Items
 ![clickable](/images/clickableBEFORE.JPG)
 
