@@ -49,7 +49,11 @@ Record Player - *https://poly.google.com/view/dEZVDbs1iR1*
 
 Doors - *https://poly.google.com/view/dRvd7q2nO-6*
 
-# Image Sources
+# Texture and Image Sources
+Floor - *https://rotulaciononline.es/wp-content/uploads/2020/06/resized_VINILOS-IMITACION-MADERA-3.jpg*
+
+Celing - *https://i.pinimg.com/originals/2c/3e/4b/2c3e4b5d02556650294e3aba3aec5023.jpg*
+
 Jail Bars - *https://ssl.bigstockimages.com/9/1/9/large2/91979924.jpg*
 
 Outside - *https://cdn.vox-cdn.com/thumbor/4Fls45eVMtc2cDw3XZcwwORUak0=/0x0:2700x1802/1200x0/filters:focal(0x0:2700x1802):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/8806997/5._Credit_Julienne_Schaer.JPG*
