@@ -23,6 +23,11 @@ My dog is located in my bedroom and is jumping up and down non-stop (this is how
 ![dog](/images/mortyy.JPG)
 ![dog](/images/mortyA.JPG)
 
+# Covid Mode
+When the covid button is clicked the windows change from green and sunny to jail bars representing being quarantined
+![before](/images/beforeCOVID.JPG)
+![after](/images/afterCOVID.JPG)
+
 # Object Sources
 Office Chair - *https://poly.google.com/view/3txPAhYeu-x*
 
@@ -50,4 +55,4 @@ Jail Bars - *https://ssl.bigstockimages.com/9/1/9/large2/91979924.jpg*
 Outside - *https://cdn.vox-cdn.com/thumbor/4Fls45eVMtc2cDw3XZcwwORUak0=/0x0:2700x1802/1200x0/filters:focal(0x0:2700x1802):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/8806997/5._Credit_Julienne_Schaer.JPG*
 
 # Sound Sources
-Record song - https://www.epidemicsound.com/track/VDrHq4h9WV
+Song - https://www.epidemicsound.com/track/VDrHq4h9WV
