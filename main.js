@@ -32,8 +32,8 @@ document.querySelector('#button').addEventListener('click', function () {
 		w1.setAttribute('material','shader: standard;roughness: 1; src: url(images/bars.jpg);');
 		w2.setAttribute('material','shader: standard;roughness: 1; src: url(images/bars.jpg);');
 		w3.setAttribute('material','shader: standard;roughness: 1; src: url(images/bars.jpg);');
-		mortyM.setAttribute('visable', 'false');
-		mortyS.setAttribute('visable', 'true');
+		mortyM.setAttribute('visible', 'false');
+		mortyS.setAttribute('visible', 'true');
 		covid = true;
 	}
 	else{
@@ -41,8 +41,8 @@ document.querySelector('#button').addEventListener('click', function () {
 		w1.setAttribute('material','shader: standard;roughness: 1; src: url(images/outside.jpg);');
 		w2.setAttribute('material','shader: standard;roughness: 1; src: url(images/outside.jpg);');
 		w3.setAttribute('material','shader: standard;roughness: 1; src: url(images/outside.jpg);');
-		mortyM.setAttribute('visable', 'true');
-		mortyS.setAttribute('visable', 'false');
+		mortyM.setAttribute('visible', 'true');
+		mortyS.setAttribute('visible', 'false');
 		covid = false;
 	}
 
